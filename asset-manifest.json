@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyFlixer/static/css/main.6d8a18d5.css",
+    "main.js": "/MyFlixer/static/js/main.b13c73ca.js",
+    "index.html": "/MyFlixer/index.html",
+    "main.6d8a18d5.css.map": "/MyFlixer/static/css/main.6d8a18d5.css.map",
+    "main.b13c73ca.js.map": "/MyFlixer/static/js/main.b13c73ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8a18d5.css",
+    "static/js/main.b13c73ca.js"
+  ]
+}

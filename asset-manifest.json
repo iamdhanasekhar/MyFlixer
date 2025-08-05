@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MyFlixer/static/css/main.6d8a18d5.css",
-    "main.js": "/MyFlixer/static/js/main.b13c73ca.js",
+    "main.js": "/MyFlixer/static/js/main.710c2c99.js",
     "index.html": "/MyFlixer/index.html",
     "main.6d8a18d5.css.map": "/MyFlixer/static/css/main.6d8a18d5.css.map",
-    "main.b13c73ca.js.map": "/MyFlixer/static/js/main.b13c73ca.js.map"
+    "main.710c2c99.js.map": "/MyFlixer/static/js/main.710c2c99.js.map"
   },
   "entrypoints": [
     "static/css/main.6d8a18d5.css",
-    "static/js/main.b13c73ca.js"
+    "static/js/main.710c2c99.js"
   ]
 }
